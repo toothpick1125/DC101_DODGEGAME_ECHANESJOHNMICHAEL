@@ -1,0 +1,19 @@
+# 🎮 Dodge the Blocks
+
+## 📄 Description
+Dodge the Blocks is a simple browser-based arcade game where the player moves left and right to avoid falling blocks. The goal is to survive as long as possible and achieve a high score.
+
+This game was developed as part of the **DC 101 – Web Development** course to demonstrate skills in HTML, CSS, and JavaScript.
+
+## 🛠 Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+
+## ▶ Instructions to Run the Game
+1. Download or clone the repository.
+2. Open `index.html` in any modern web browser.
+3. Click **Start Game**.
+4. Use the **Left Arrow** and **Right Arrow** keys to move.
+5. Dodge the falling blocks to increase your score.
